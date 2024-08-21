@@ -1,0 +1,11 @@
+- POST /api crear un nuevo proyecto
+- GET /api listar todos los proyectos
+- GET /api/:id obtener detalles de un proyecto
+- PUT /api/:id editar un proyecto
+- DELETE /api/:id eliminar un proyecto
+- POST /api/:id/task crear una tarea en un proyecto
+- GET /api/:id/task listar las tareas de un proyecto
+- PUT /api/:id/task/:id editar una tarea de un proyecto
+- DELETE /api/task/:id eliminar una tarea de un proyecto
+- POST /api/auth/login autenticar usuario
+- POST /api/auth/signin
