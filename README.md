@@ -14,11 +14,9 @@ Proyecto realizado para la asignatura de Desarrollo en Node.js
 
 Proyecto desarrollado en Node 20+
 
-- Al descargar el proyecto crear una carpeta llamada config
-- Solicitar el archivo firebase.json que va dentro de la carpeta creada
-- Solicitar el archivo .env que va en el directorio principal
-- Realizar el npm install
-- Ejecutar el comando node index.js
+Para la correcta ejecución del proyecto seguir la siguiente secuencia de comandos
 
-El archivo de configuración para la BD de firebase github deniega el push
-por lo que no puede ir dentro del repositorio
+- npm install
+- node index.js
+
+PD. Para desarrollo se recomienda el uso de nodemon
